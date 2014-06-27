@@ -1,0 +1,50 @@
+yo jekyllrb
+
+     _-----_
+    |       |
+    |--(o)--|   .--------------------------.
+   `---------´  |    Welcome to Yeoman,    |
+    ( _´U`_ )   |   ladies and gentlemen!  |
+    /___A___\   '__________________________'
+     |  ~  |
+   __'.___.'__
+ ´   `  |° ´ Y `
+
+This generator will scaffold and wire a Jekyll site. Yo, Jekyllrb!
+
+Tell us a little about yourself. ☛
+[?] Name: Filippo Vitale
+[?] Email: attivissimome@gmail.com
+
+Wire tools and preprocessors. ☛
+[?] CSS preprocessor: None
+[?] Use Autoprefixer? No
+[?] Javascript preprocessor: None
+
+Set up some directories. ☛
+See note about nested directories in the README.
+[?] CSS directory: css
+[?] Javascript directory: js
+[?] Image directory: img
+[?] Webfont directory: fonts
+
+Choose a template. ☛
+[?] Site template: HTML5 ★ Boilerplate
+[?] Add H5★BP CSS files? Yes
+[?] Add H5★BP javascript files? Yes
+[?] Add H5★BP favorite and touch icons? Yes
+[?] Add H5★BP documentation? No
+[?] Include Google Analytics? Yes
+
+Choose deployment options. ☛
+[?] Use grunt-build-control for deployment? Yes
+[?] Remote to deploy to: ../
+[?] Branch to deploy to: master
+
+And finally, configure Jekyll. ☛
+You can change all of these options in _config.yml.
+[?] Site description: Attivissimo Me
+[?] Post permalink style: pretty
+[?] Markdown library: kramdown
+[?] Use the Pygments code highlighting library? Yes
+[?] Number of posts to show on the home page: all
