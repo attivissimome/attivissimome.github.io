@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Filippo Vitale -- one man show -- @filippovitale
 
 # THANKS
 
-    <name>
+    Gru from "Despicable Me" for inspiring the domain name
 
 # TECHNOLOGY COLOPHON
 
