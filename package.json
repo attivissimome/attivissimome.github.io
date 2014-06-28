@@ -29,5 +29,19 @@
   },
   "engines": {
     "node": ">=0.8.0"
-  }
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/attivissimome/attivissimome.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attivissimome/attivissimome.github.io/issues"
+  },
+  "homepage": "https://github.com/attivissimome/attivissimome.github.io"
 }
