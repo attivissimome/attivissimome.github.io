@@ -1,4 +1,4 @@
-#!bin/bash/ -e
+#!/bin/bash -e
 
 SOURCE_BRANCH=develop
 PUBLISH_BRANCH=master
